@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 25 14:51:35 CDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0190-50f4-2073-00001130f950 
+on database directory D:\Documentos\NetBeansProjects\SimuladorDeToma\dist\simuladortd_bd with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/D:/Documentos/NetBeansProjects/SimuladorDeToma/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=D:\Documentos\NetBeansProjects\SimuladorDeToma\dist
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
